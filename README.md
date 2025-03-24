@@ -27,7 +27,7 @@ Automatically create new VMs when CPU utilization exceeds 75% threshold.
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/auto-scaling-gcp.git
+git clone [https://github.com/vinaykumar2318/VCC_Assignment3.git]
 cd auto-scaling-gcp
 ```
 
